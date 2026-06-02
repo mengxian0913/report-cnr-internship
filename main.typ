@@ -6,8 +6,8 @@
   department: "資訊工程學系",    // 系所
   grade: "大四",                 // 年級
   name: "楊孟憲",               // 中文姓名
-  country: "",                   // 國外實習國家（含城市）
-  institution: "",               // 國外實習機構
+  country: "Italy (Bologna)",   // 國外實習國家（含城市）
+  institution: "CNR-ISP",       // 國外實習機構
   evaluation: "",                // 國外實習考評成績或評語
   video: "",                     // 短片時間及標題
 )
