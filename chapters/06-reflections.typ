@@ -16,7 +16,7 @@
 波隆納不是觀光客最常去的義大利城市，但正因如此，生活在這裡的幾個月反而更接近當地人的日常節奏。市中心的拱廊街道、市集與廣場，是每天往返實驗室途中自然融入的風景，而不是特地安排的行程。
 
 #figure(
-  image("../figures/center-of-bologna.jpg", width: 80%),
+  image("../figures/center-of-bologna.jpg", width: 40%),
   caption: [波隆納市中心],
 )
 
